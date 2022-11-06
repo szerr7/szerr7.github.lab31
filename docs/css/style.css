@@ -5,6 +5,20 @@
           box-sizing: border-box;
 }
 
+
+
+.miu-head{
+
+          color: white;
+
+          
+}
+
+.hello{
+
+          margin-top: -1%;
+}
+
 .head{
           
 
@@ -27,6 +41,13 @@
           padding-top: 40px;
 
 
+}
+
+.pro , .sub{
+
+          margin-left: 3%;
+
+          
 }
 
 .box2{
