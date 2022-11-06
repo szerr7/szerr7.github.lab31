@@ -1,0 +1,152 @@
+
+*{
+          padding: 0;
+          margin: 0;
+          box-sizing: border-box;
+}
+
+.head{
+          
+
+          width: 100%;
+          height: 60px;
+
+          background-color: #42ace9;
+
+          
+
+          
+         
+}
+
+.newProduct{
+
+          width: 100%;
+          height: 90px;
+          padding-left: 60px;
+          padding-top: 40px;
+
+
+}
+
+.box2{
+
+          float: left;
+          width: 50%;
+
+          height: 1000px;
+
+          
+
+          margin-top: 1%;
+
+
+
+
+}
+
+.box3{
+
+          
+
+          float: right;
+          width: 50% ;
+          height: 1000px;
+          
+          margin-top: 1%;
+
+          
+
+
+}
+
+.rese{
+         border: 1px solid #033c73; 
+
+         color: #033c73;
+
+         background-color: white;
+
+        height: 4vh;
+        width: 6vh;
+
+        margin-left: 2%;
+
+       border-radius: 5px;
+}
+
+
+
+.submit{
+          border: 1px solid #2fa4e7; 
+ 
+          color: #2fa4e7;
+ 
+          background-color: white;
+ 
+         height: 4vh;
+         width: 10vh;
+ 
+         margin-left: 2%;
+ 
+        border-radius: 5px;
+ }
+
+ .cancel{
+          border: 1px solid #dd5600; 
+ 
+          color: #dd5600;
+ 
+          background-color: white;
+ 
+         height: 4vh;
+         width: 6vh;
+ 
+         margin-left: 2%;
+ 
+        border-radius: 5px;
+ }
+
+
+
+.hello{
+          vertical-align: top;
+          text-align: right;
+}
+.product-number , .name1 , .supplier1{
+ width: 80%;
+height: 40px;
+
+border-radius: 7px;
+
+margin-top: 2%;
+
+margin-bottom: 3%;
+
+border: 1px solid #ced4da ;
+
+}
+
+.click{
+
+          background-color: #f8f9fa;
+
+          border-radius: 8%;
+          font-size: large;
+
+          border: 0px solid wheat;
+}
+
+.Quantity-in-stock1 ,.unit-Price1,.Date-supplier1{
+
+width: 80%;
+height: 40px;
+border-radius: 7px;
+margin-top: 2%;
+margin-bottom: 3%;
+border: 1px solid #ced4da ;
+
+}
+
+         
+         
